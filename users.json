@@ -1,0 +1,38 @@
+[{
+    "id":1,
+    "name": "Vivian",
+    "employer": "self-employed",
+    "age": 25,
+    "eye-color":"brown"
+
+},
+
+{"id":2,
+    "name": "Nana",
+    "employer": "self-employed",
+    "age": 21,
+    "eye-color":"brown"
+
+
+
+},
+
+{
+    "id":3,
+    "name": "Akua",
+    "employer": "google",
+    "age": 20,
+    "eye-color":"blue"
+
+},
+
+{
+    "id":4,
+    "name": "Ziggy",
+    "employer": "bost",
+    "age": 27,
+    "eye-color":"brown"
+
+}
+
+]
